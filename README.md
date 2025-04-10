@@ -2,8 +2,6 @@
 
 A passionate backend developer.
 
-- 🔭 I’m currently working on my company's website APIs.
-- 🌱 I’m currently learning **ASP.NET**.
 - 📫 How to reach me: [bilal.beldjennaa@gmail.com](mailto:bilal.beldjennaa@gmail.com)
 
 ### Connect with me:
